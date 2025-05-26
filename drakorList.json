@@ -1,84 +1,84 @@
 {
-  "result": [
+  "result":
     {
       "title": "Study Group",
       "year": "2025",
-      "genre": "Action",
-      "main_cast": "Arsenal",
+      "genre": "Action, Comedy",
+      "main_cast": "Hwang Min-hyun, Cha Woo-min",
       "episode": "10",
-      "Poster": "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250105912.webp"
+      "Poster": "https://upload.wikimedia.org/wikipedia/id/8/85/Study_Group_%28TV_series%29_poster.png"
     },
     {
-      "title": "Aaron Ramsdale",
-      "year": "Goalkeeper",
-      "genre": "England",
-      "main_cast": "Arsenal",
-      "episode": "10",
-      "Poster": "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250105912.webp"
+      "title": "Weak Hero Class",
+      "year": "2022",
+      "genre": "Action, Drama",
+      "main_cast": "Park Ji-hoon, Ryeo Un",
+      "episode": "16",
+      "Poster": "https://upload.wikimedia.org/wikipedia/id/thumb/3/3e/Weak_Hero_Class_1.jpeg/250px-Weak_Hero_Class_1.jpeg"
     },
     {
-      "title": "Aaron Ramsdale",
-      "year": "Goalkeeper",
-      "genre": "England",
-      "main_cast": "Arsenal",
-      "episode": "10",
-      "Poster": "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250105912.webp"
+      "title": "The Trauma Code: Heroes on Call",
+      "year": "2025",
+      "genre": "Drama, Comedy",
+      "main_cast": "Ju Ji-hoon, Choo Young Woo",
+      "episode": "8",
+      "Poster": "https://asianwiki.com/images/c/cc/The_Trauma_Code-_Heroes_on_Call-p1.jpeg"
     },
     {
-      "title": "Aaron Ramsdale",
-      "year": "Goalkeeper",
-      "genre": "England",
-      "main_cast": "Arsenal",
-      "episode": "10",
-      "Poster": "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250105912.webp"
+      "title": "Lovely Runner",
+      "year": "2024",
+      "genre": "Romance, Fantasy",
+      "main_cast": "Byun Woo-seok, Kim Hye-yoon",
+      "episode": "16",
+      "Poster": "https://upload.wikimedia.org/wikipedia/id/6/67/Lovely_Runner.png"
     },
     {
-      "title": "Aaron Ramsdale",
-      "year": "Goalkeeper",
-      "genre": "England",
-      "main_cast": "Arsenal",
-      "episode": "10",
-      "Poster": "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250105912.webp"
+      "title": "Queen of Tears",
+      "year": "2024",
+      "genre": "Romance, Fantasy",
+      "main_cast": "Kim Ji Won, Kim Soo Hyun",
+      "episode": "16",
+      "Poster": "https://upload.wikimedia.org/wikipedia/id/thumb/5/51/Queen_of_Tears_Main_Poster.png/250px-Queen_of_Tears_Main_Poster.png"
     },
     {
-      "title": "Aaron Ramsdale",
-      "year": "Goalkeeper",
-      "genre": "England",
-      "main_cast": "Arsenal",
+      "title": "Mr. Plankton",
+      "year": "2024",
+      "genre": "Romance, Drama",
+      "main_cast": "Woo Do-hwan, Lee Yoo Mi",
       "episode": "10",
-      "Poster": "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250105912.webp"
+      "Poster": "https://upload.wikimedia.org/wikipedia/id/c/c1/Mr._Plankton_poster.png"
     },
     {
-      "title": "Aaron Ramsdale",
-      "year": "Goalkeeper",
-      "genre": "England",
-      "main_cast": "Arsenal",
-      "episode": "10",
-      "Poster": "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250105912.webp"
+      "title": "Bloodhounds",
+      "year": "2023",
+      "genre": "Action, Mystery"
+      "main_cast": "Woo Do-hwan, Lee Sang-yi",
+      "episode": "8",
+      "Poster": "https://upload.wikimedia.org/wikipedia/id/5/54/Bloodhounds_%28South_Korean_TV_series%29.jpg"
     },
     {
-      "title": "Aaron Ramsdale",
-      "year": "Goalkeeper",
-      "genre": "England",
-      "main_cast": "Arsenal",
-      "episode": "10",
-      "Poster": "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250105912.webp"
+      "title": "Vagabond",
+      "year": "2019",
+      "genre": "Action, Adventure",
+      "main_cast": "Bae Suzy, Lee Seung-gi",
+      "episode": "16",
+      "Poster": "https://upload.wikimedia.org/wikipedia/id/5/51/Vagabond_2019.jpg"
     },
     {
-      "title": "Aaron Ramsdale",
-      "year": "Goalkeeper",
-      "genre": "England",
-      "main_cast": "Arsenal",
-      "episode": "10",
-      "Poster": "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250105912.webp"
+      "title": "Mouse",
+      "year": "2021",
+      "genre": "Thriller, Psychological",
+      "main_cast": "Lee Seung-gi, Lee Hee-joon",
+      "episode": 20",
+      "Poster": "https://awsimages.detik.net.id/community/media/visual/2021/05/06/drama-korea-mouse.png?w=1200"
     },
     {
-      "title": "Aaron Ramsdale",
-      "year": "Goalkeeper",
-      "genre": "England",
-      "main_cast": "Arsenal",
-      "episode": "10",
-      "Poster": "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250105912.webp"
+      "title": "Taxi Driver",
+      "year": "2021",
+      "genre": "Adventure, Mystery",
+      "main_cast": "Lee Je-hoon, Kim Eui-sung",
+      "episode": "16",
+      "Poster": "https://upload.wikimedia.org/wikipedia/id/2/25/Taxi_Driver_main_poster.jpg"
     }
   ]
 }
